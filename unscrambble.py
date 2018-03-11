@@ -1,4 +1,3 @@
-import tensorflow as tf
 from itertools import permutations
 
 def idictionary():
